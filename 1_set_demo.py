@@ -4,7 +4,7 @@ Demonstration on using python's built-in set function to return a unique list
 Example: Multiple, possibly duplicative hash values are identified and a unique set of hash values is needed to lookup
 in the sandbox.
 
-Solution: Let's create a function to return a unique set of hash values.
+Solution: Let's create a code to return a unique set of hash values.
 """
 # The original input containing duplicative information can be from a text file, command line, API query.
 # Create a list object of that data.
